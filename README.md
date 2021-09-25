@@ -1,2 +1,2 @@
-# url-shortner-
+# url-shortener-frontend
 Created with CodeSandbox
